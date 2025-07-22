@@ -9,5 +9,4 @@
  - 核弹（BOOOOOOOOOOOOOOOOOOOOOOOOOM！）
  
 ***
-© By [li2012China](https://github.com/li2012China/)
-[漏洞与新内容提交](https://github.com/li2012China/CreateAndWars_MC/issues)
+© By [li2012China](https://github.com/li2012China/)2025，版权所有。  [漏洞与新内容提交](https://github.com/li2012China/CreateAndWars_MC/issues)  []()
