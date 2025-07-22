@@ -6,7 +6,7 @@
  - 加入失落的城市
  - 加入更好的地形
 # 下个版本即将更新
- - 核弹
+ - 核弹（BOOOOOOOOOOOOOOOOOOOOOOOOOM！）
  
 ***
 © By [li2012China](https://github.com/li2012China/)
